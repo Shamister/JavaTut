@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Java Tutorial</string>
+    <string name="action_exit">Exit Program</string>
+</resources>
